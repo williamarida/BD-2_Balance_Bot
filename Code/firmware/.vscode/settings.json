@@ -1,0 +1,8 @@
+{
+  "idf.espIdfPathWin": "C:\\Espressif\\v5.5.2\\esp-idf",
+  "idf.toolsPathWin": "C:\\Espressif\\tools",
+  "idf.pythonBinPathWin": "C:\\Espressif\\tools\\python\\v5.5.2\\venv\\Scripts\\python.exe",
+  "idf.buildPathWin": "C:\\Espressif\\build\\bd2",
+  "idf.adapterTargetName": "esp32",
+  "C_Cpp.default.compileCommands": "C:\\Espressif\\build\\bd2\\compile_commands.json"
+}

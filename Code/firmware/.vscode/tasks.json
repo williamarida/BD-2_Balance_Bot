@@ -1,0 +1,13 @@
+{
+  "version": "2.0.0",
+  "tasks": [
+    {
+      "label": "BD-2: Build firmware",
+      "type": "shell",
+      "command": ". 'C:\\Espressif\\tools\\Microsoft.v5.5.2.PowerShell_profile.ps1'; Set-Location C:\\Espressif\\projects\\bd2\\Code\\firmware; idf.py -B C:\\Espressif\\build\\bd2 build",
+      "options": {"shell": {"executable": "powershell.exe", "args": ["-NoProfile", "-ExecutionPolicy", "Bypass", "-Command"]}},
+      "group": {"kind": "build", "isDefault": true},
+      "problemMatcher": ["$gcc"]
+    }
+  ]
+}

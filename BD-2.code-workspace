@@ -1,0 +1,6 @@
+{
+  "folders": [
+    { "name": "BD-2 project", "path": "." },
+    { "name": "ESP32 firmware", "path": "Code/firmware" }
+  ]
+}

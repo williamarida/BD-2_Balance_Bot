@@ -1,0 +1,29 @@
+# Generated code/build files and local credentials
+**/build/
+**/install/
+**/log/
+**/__pycache__/
+*.pyc
+.venv/
+Code/firmware/sdkconfig
+Code/firmware/sdkconfig.old
+Code/firmware/main/wifi_credentials.h
+Code/firmware/dependencies.lock
+.vscode/*.log
+# Keep original CAD locally; choose exports to publish in hardware/ later.
+/V1 CAD/
+/CAD/V1 CAD/
+*.step
+*.stp
+*.sldprt
+*.sldasm
+*.par
+*.asm
+*.bak
+*.bin
+*.elf
+# Local installers and telemetry recordings
+/tools/installers/
+/recordings/
+*.db3
+*.mcap
