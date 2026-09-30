@@ -1,5 +1,5 @@
 Intro:  
-This is BD-2, my wheeled, bipedal robot! 
+This is BD-2, my wheeled, bipedal robot!  
 Built with the balance of cost, modularity, and straightforward design in mind.
 This repository is built as both a story and an instruction manual to help anyone build one and learn
 as much as I did in the process of deigning and building this system.
