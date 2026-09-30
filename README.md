@@ -14,3 +14,7 @@ Mechanical System:
 mounted together using M3 screws and heat set threated inserts. The leg mechanism uses a pulley system
 instead of a 4 bar linkage to allow for perfectly linear vertical foot movement without the use of a
 second set of BLDC motors for the knees. This cuts cost as well as provides challenge in design.
+
+Software System:
+C++ running ROS 2 over Wi-Fi to a paired computer to allow for telemetry graphing, and PID and
+Bluetooth controller tuning.
